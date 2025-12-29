@@ -8,9 +8,6 @@ int main() {
         for(int k=1; k<=9-(i-1)*2; k++){
             printf("*");
         }
-        for(int j =1; j<i; j++){
-            printf(" ");
-        }
         printf("\n");
     }
     
